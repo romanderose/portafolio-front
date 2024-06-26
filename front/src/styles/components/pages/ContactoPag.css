@@ -1,0 +1,45 @@
+input{
+    border-radius: 300px;
+    width: 300px;
+    height: 30px;
+}
+textarea{
+    border: 2px solid black;
+    width: 400px;
+    height: 100px;
+}
+
+#label-mensaje{
+    position: relative;
+    bottom: 50px;
+}
+
+#boton{
+    width: 100px;
+}
+
+.otros-medios-contacto{
+    list-style: none;
+    width: 400px;
+    align-items: center;
+    margin-left: 280px;
+}
+
+#facebook{
+    border: 2px solid white;
+    border-radius: 50%;
+    background-color: white;
+}
+
+#instagram{
+    background: linear-gradient(blue 8%, rgb(118,35,185), pink, red, orange, yellow);
+    /*
+    background: linear-gradient(blue 16%, rgb(118, 35, 185) 16%, 
+    pink 16%, red 16%, orange 16%, yellow 16%);
+    */
+    border-radius: 30%;
+}
+
+#whatsapp{
+    background-color: green;
+}

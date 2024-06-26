@@ -1,0 +1,21 @@
+.cont-naveg-bar{
+    border: 2px solid black;
+}
+
+.naveg-bar{
+    margin-left: 230px;
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+}
+  
+.naveg{
+    list-style: none;
+    font-size: 25px;
+}
+  
+.naveg:hover{
+    background-color: red;
+    padding: 5px;
+}
